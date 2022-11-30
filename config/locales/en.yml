@@ -1,0 +1,11 @@
+en:
+  authentication_error: Unauthorized
+  file_exists_label: File already exists
+  mobile:
+    wrong_credentials: Wrong credentials
+    user_not_registered: User is not registered
+  errors:
+    unauthorized_error: Unauthorized
+    out_of_range_error: value should be within %{start_range} to %{end_range}
+    uniqueness_error: cannot post more than one entry
+    record_not_uniq_error: Record not uniq
